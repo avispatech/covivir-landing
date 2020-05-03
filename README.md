@@ -1,6 +1,6 @@
-----
+---
 title: Covivir
-----
+---
 
 # Covivir
 ## Acompañamiento psicológico en tiempos de Pandemia
