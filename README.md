@@ -10,8 +10,6 @@ Nuestro video lo puedes ver en Youtube
 
 ## Galería
 
-Puedes también mirar las imágenes directamente en nuestra [Galería](gallery)
-
 ![01](/assets/images/01.png)
 ![01](/assets/images/02.png)
 
