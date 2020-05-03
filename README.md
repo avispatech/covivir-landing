@@ -9,9 +9,5 @@ Puedes ver nuestra maqueta en [Figma](https://www.figma.com/file/AOyJLJcUw1jIj7A
 Nuestro video lo puedes ver en Youtube
 
 ## Galería
-{% assign image_files = site.static_files | where: "image", true %}
-{% for myimage in image_files %}
-  ![myimage]({{ myimage.path }})
-{% endfor %}
 
-![01](https://covivir.avispa.work/assets/images/01.png)
+Puedes también mirar las imágenes directamente en nuestra [Galería](gallery)
