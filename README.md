@@ -2,7 +2,9 @@ Covivir es una aplicación que ofrece un servicio remoto de salud mental para lo
 
 ## Ve el video
 
-Nuestro video lo puedes ver en [Youtube](https://www.youtube.com/watch?v=qWeYOGnqtPA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qWeYOGnqtPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Si no se te muestra el video arriba lo puedes ver en [Youtube](https://www.youtube.com/watch?v=qWeYOGnqtPA)
 
 ## Ve la maqueta
 
