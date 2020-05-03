@@ -2,3 +2,8 @@ theme: jekyll-theme-cayman
 title: CoVivir
 description: Acompañamiento psicológico en tiempos de Pandemia
 show_downloads: false
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
