@@ -11,3 +11,9 @@ Nuestro video lo puedes ver en Youtube
 ## Galería
 
 Puedes también mirar las imágenes directamente en nuestra [Galería](gallery)
+
+
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  ![myimage]({{ myimage.path }})
+{% endfor %}
