@@ -8,3 +8,5 @@ defaults:
       path: "assets/images"
     values:
       image: true
+plugins:
+  - jekyll-optional-front-matter
