@@ -1,4 +1,7 @@
-title: CoVivir App
+---
+title: "CoVivir App"
+---
+
 # Covivir
 ## Acompañamiento psicológico en tiempos de Pandemia
 
